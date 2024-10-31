@@ -1,0 +1,46 @@
+.success-message{
+    color: #46b450;
+}
+
+.p-10{
+    padding: 10px !important;
+}
+
+.pl-4{
+    padding-left: 40px;
+}
+
+.mt-3 {
+    margin-top: 20px;
+}
+
+#feedier-admin-form{
+    margin-top: 20px !important;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+}
+
+.row > div {
+    flex-grow: 1;
+    flex-basis: 0;
+}
+
+.box {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f1f1f1;
+}
+
+#addable thead {
+    font-weight: bold;
+}
